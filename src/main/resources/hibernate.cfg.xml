@@ -16,5 +16,6 @@
 
         <mapping class="com.flamexander.hibernate.h2.User"/>
 
+
     </session-factory>
 </hibernate-configuration>
